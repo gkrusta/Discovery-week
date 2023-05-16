@@ -1,0 +1,10 @@
+.title {
+    color: red;
+    width: 50%;
+}
+.link {
+    background-color: red;
+}
+.link.one {
+    background-color: green;
+}
